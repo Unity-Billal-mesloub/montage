@@ -5,7 +5,7 @@
 
 [![Build Status](https://travis-ci.org/montagejs/montage.svg?branch=master)](http://travis-ci.org/montagejs/montage)
 
-[![Analytics](https://ga-beacon.appspot.com/UA-35717912-2/montagejs/montage)](https://github.com/montagejs/montage)
+[![Analytics](https://ga-beacon.appspot.com/UA-35717912-2/montagejs/montage)](https://github.com/Unity-Billal-mesloub/montage)
 
 
 Montage is a new type of application framework powered by standard web technologies. Designed with an eye toward maintainability and performance, Montage simplifies the development of rich HTML5 applications by providing modular components, real-time two-way data binding, object serialization with DOM mapping, event handling, a managed component draw cycle, CommonJS dependency management, and many more conveniences to help build robust single-page web applications.
