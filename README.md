@@ -18,15 +18,13 @@ Montage has a clean interface for creating custom user interface components. Eac
 
 Montage makes it easier to manage your application and UI state with data bindings. A UI component or Montage object can establish a simple or bi-directional binding with another component or object. When the bound property, or deeper property path, of the bound object is updated then the source object is kept in sync.
 
-Montage uses functional reactive bindings ([FRB](https://github.com/montagejs/frb)). Unlike “traditional” bindings, FRB can gracefully bind long property paths and the contents of collections. They can also incrementally update the results of chains of queries including maps, flattened arrays, sums, and averages as well as add and remove elements from sets based on the changes to a flag. FRB makes it easy to incrementally ensure consistent state. FRB is built from a combination of powerful functional and generic building blocks, making it reliable, easy to extend, and easy to maintain.
+Montage uses functional reactive bindings ([FRB](https://github.com/Unity-Billal-mesloub/frb)). Unlike “traditional” bindings, FRB can gracefully bind long property paths and the contents of collections. They can also incrementally update the results of chains of queries including maps, flattened arrays, sums, and averages as well as add and remove elements from sets based on the changes to a flag. FRB makes it easy to incrementally ensure consistent state. FRB is built from a combination of powerful functional and generic building blocks, making it reliable, easy to extend, and easy to maintain.
 
-For more information, see [FRB](https://github.com/montagejs/frb).
+For more information, see [FRB](https://github.com/Unity-Billal-mesloub/frb).
 
 ## CommonJS
 
 Montage fully supports [CommonJS](http://www.commonjs.org/) modules and is a part of the Node and npm package ecosystem.
-
-For more information, see [CommonJS](https://github.com/montagejs/...[TBD]).
 
 # Requirements
 To get started with Montage, you will need the following:
